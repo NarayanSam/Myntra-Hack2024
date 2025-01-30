@@ -22,7 +22,6 @@
 - *Frontend*: ReactJS, Tailwind CSS
 - *Backend*: Node.js, Express.js
 - *Database*: MongoDB
-- *Media Management: **Cloudinary* for storing images
 - *Community Features*: REST APIs for posting and fetching community content
 
 ## Screenshots
@@ -33,26 +32,12 @@
 ## Video
 Click here to watch the preview <a href="https://drive.google.com/file/d/1_6OTN2JijkabYCJ4Zk0cplOLmMSC4UG1/view?usp=sharing"> Video</a>
 
-## Installation and Setup
-1. Clone the Repositories
-   bash
-   git clone https://github.com/your-username/outfit-maker.git
-   cd outfit-maker
-2. Install dependencies:
-  bash
-  npm install
-  
-3. Start the development server:
-bash
-npm start
 
 ## Future Enhancements
 - AI-based outfit suggestions.
 - Advanced styling tools with drag-and-drop features.
 - Integration with other e-commerce platforms.
 - Gamified challenges for community engagement.
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
